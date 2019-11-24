@@ -1,0 +1,13 @@
+{
+	"mysql": {
+		"host": "localhost",
+		"user": "root",
+		"password": "",
+		"database": "bot"
+	},
+	"general": {
+		"token": "NTU3OTI5MDg0MTE4NzYxNDgz.D3Pecg.NXUan3h6wz6K_VaoeKsTyUPcgoE",
+		"prefix": "!",
+		"message": "Пожалуйста, ознакомтесь с инструкциями использования: \n - Первое\n - Второе, \n - Третие"
+	}
+}
